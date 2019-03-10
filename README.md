@@ -2,6 +2,7 @@
 DockerTestCases
 Steps to run the test cases in Docker
 1. Take the pull of selenium hub and node browsers image in docker
+
   a. docker pull selenium/hub
   b. docker pull selenium/node-firefox
   c. docker pull selenium/node-chrome
